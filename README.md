@@ -1,2 +1,3 @@
-# IRIS-Prediction-using-unsupervised-ML
-Used jupyter notebook to perform prediction using unsupervised learning on the IRIS dataset &amp; predict the optimum number of clusters and represent it visually
+Ankita Saha
+Task : From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+Dataset : https://bit.ly/3kXTdox
